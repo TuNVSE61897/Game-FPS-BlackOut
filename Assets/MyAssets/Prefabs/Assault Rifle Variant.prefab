@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3309161587102724613
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2780799933522186664, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_Name
+      value: Assault Rifle Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3304712364849711890, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: AdsSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: Hitforce
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: aimingPos.y
+      value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: CurAmmoCount
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: originalPos.x
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: originalPos.y
+      value: -0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5792329690402269971, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
+      propertyPath: originalPos.z
+      value: 0.06
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c36d3cbf72e9d38418d620d1f2461a0e, type: 3}
